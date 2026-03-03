@@ -1,0 +1,11 @@
+learn asm:
+https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
+https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html (advanced)
+
+learn how to cpu work:
+https://www.cl72.org/120introAssem/Assembly-Language.Step.by.Step.pdf
+
+and wikipedia too.......
+
+why i doing this?
+
